@@ -1,0 +1,34 @@
+# Astro
+## Version 1.0.5
+Free and Open Source Java IDE
+ 
+ 
+<img src="https://i.imgur.com/cyVNRUt.jpg" width="600">
+ 
+<img src="https://i.imgur.com/3OduBEd.jpg" width="600">
+
+<img src="https://i.imgur.com/Hu6i8Ix.jpg" width="600">
+
+## Features
+- Open Project
+- Create New File
+- Create New Class - Interface - Enum - Annotation
+- Java Code Highlight
+- Java Auto Complete Code
+- Java Classes Auto Import
+- Java Code Support WhiteSpace
+- Java Code Format
+- Code ScreenShot
+- Open Terminal
+- Open Terminal in Current File Path
+- Files Drag Drop
+- Run Single Java File
+- Auto Comment and un Comment selected Code
+- Comments multi colors like TODO and WARN comment
+- Brackets and Quotes Auto Complete
+- Project Files Change Listener
+
+
+## Libraries
+### [Google Java Format](https://github.com/google/google-java-format)
+### [RichTextFX](https://github.com/FXMisc/RichTextFX)
